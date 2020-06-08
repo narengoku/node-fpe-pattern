@@ -1,0 +1,22 @@
+{
+  "name": "node-fpe-pattern",
+  "version": "0.0.1",
+  "description": "Format-preserving encryption preserving the pattern of the text",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/palwol-quinto/node-fpe-pattern.git"
+  },
+  "keywords": [
+    "fpe"
+  ],
+  "author": "@palwol-quinto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/palwol-quinto/node-fpe-pattern/issues"
+  },
+  "homepage": "https://github.com/palwol-quinto/node-fpe-pattern#readme",
+  "dependencies": {
+    "node-fpe": "^1.0.0"
+  }
+}
